@@ -94,6 +94,7 @@ java MainApp
     </tr>
   </table>
 </p>
+
 ---
 
 ## Learning Outcomes
@@ -123,6 +124,9 @@ java MainApp
 ##  Author
 
 **Jatin Kumar**
+
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![GUI](https://img.shields.io/badge/GUI-Swing-orange)
 
 ---
 
