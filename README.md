@@ -128,10 +128,7 @@ java MainApp
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![GUI](https://img.shields.io/badge/GUI-Swing-orange)
 
----
 
-##  License
 
-This project is for educational purposes.
 
 
